@@ -1,0 +1,92 @@
+
+BigWigs3DB = {
+["namespaces"] = {
+["BigWigs_Plugins_Countdown"] = {
+["profiles"] = {
+["Default"] = {
+["countdownTime"] = 10,
+["position"] = {
+"CENTER",
+"CENTER",
+-13,
+213,
+},
+},
+},
+},
+["BigWigs_Plugins_Bars"] = {
+["profiles"] = {
+["Default"] = {
+["fontSize"] = 11,
+["expHeight"] = 21,
+["emphasizeGrowup"] = true,
+["spacing"] = 5,
+["expWidth"] = 240,
+["texture"] = "Minimalist",
+["barStyle"] = "TukUI",
+["growup"] = true,
+["fontSizeEmph"] = 11,
+["expPosition"] = {
+nil,
+nil,
+318,
+235,
+},
+["normalWidth"] = 188,
+["normalHeight"] = 19,
+["emphasizeTime"] = 16,
+["normalPosition"] = {
+"TOP",
+"TOP",
+290,
+-114,
+},
+},
+},
+},
+["BigWigs_Plugins_Nameplates"] = {
+["profiles"] = {
+["Default"] = {
+["iconGrowDirectionStart"] = "RIGHT",
+["iconGrowDirection"] = "RIGHT",
+["iconOffsetX"] = 5,
+},
+},
+},
+["BigWigs_Plugins_Messages"] = {
+["profiles"] = {
+["Default"] = {
+["emphPosition"] = {
+"TOP",
+"TOP",
+nil,
+-112,
+},
+["normalPosition"] = {
+"CENTER",
+"CENTER",
+-8,
+63,
+},
+},
+},
+},
+},
+["global"] = {
+["watchedMovies"] = {
+[-323] = true,
+},
+},
+["profileKeys"] = {
+["Wunderful - Firemaw"] = "Default",
+["Ostreicher - Firemaw"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+},
+},
+}
+BigWigsIconDB = {
+}
+BigWigsStatsDB = {
+}

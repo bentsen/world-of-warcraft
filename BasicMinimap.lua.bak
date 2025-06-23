@@ -1,0 +1,10 @@
+
+BasicMinimapSV = {
+["profileKeys"] = {
+["Wunderful - Firemaw"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+},
+},
+}

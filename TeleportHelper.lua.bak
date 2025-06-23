@@ -1,0 +1,2 @@
+
+TeleportHelperDB = nil
