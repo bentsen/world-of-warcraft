@@ -2,11 +2,13 @@
 OmniCCDB = {
 ["global"] = {
 ["dbVersion"] = 6,
-["addonVersion"] = "11.2.3",
+["addonVersion"] = "11.2.4",
 },
 ["profileKeys"] = {
-["Wunderful - Firemaw"] = "Default",
+["Estaup - Firemaw"] = "Default",
+["Yuseph - Firemaw"] = "Default",
 ["Filibaba - Pyrewood Village"] = "Default",
+["Wunderful - Firemaw"] = "Default",
 ["Aiwa - Firemaw"] = "Default",
 ["Ostreicher - Firemaw"] = "Default",
 },

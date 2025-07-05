@@ -435,6 +435,150 @@ Bartender4DB = {
 },
 },
 },
+["Estaup - Firemaw"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.4999237060547,
+["x"] = -230.5,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Yuseph - Firemaw"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.4999237060547,
+["x"] = -230.5,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
 ["Default"] = {
 ["actionbars"] = {
 {
@@ -871,11 +1015,19 @@ false,
 },
 ["ExtraActionBar"] = {
 ["profiles"] = {
-["Wunderful - Firemaw"] = {
+["Estaup - Firemaw"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -164.2646636962891,
-["x"] = -63.4998779296875,
+["y"] = -253.3450317382813,
+["x"] = -63.50003051757813,
+["point"] = "CENTER",
+},
+},
+["Yuseph - Firemaw"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -253.3450317382813,
+["x"] = -63.50003051757813,
 ["point"] = "CENTER",
 },
 },
@@ -884,6 +1036,14 @@ false,
 ["position"] = {
 ["y"] = -253.3450317382813,
 ["x"] = -63.50003051757813,
+["point"] = "CENTER",
+},
+},
+["Wunderful - Firemaw"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -164.2646636962891,
+["x"] = -63.4998779296875,
 ["point"] = "CENTER",
 },
 },
@@ -959,6 +1119,27 @@ false,
 },
 },
 ["Ostreicher - Firemaw"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Estaup - Firemaw"] = {
+["padding"] = -3,
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = 33,
+["point"] = "BOTTOM",
+["y"] = 42,
+},
+},
+["Yuseph - Firemaw"] = {
+["enabled"] = false,
 ["padding"] = -2,
 ["version"] = 3,
 ["position"] = {
@@ -1085,6 +1266,29 @@ false,
 ["point"] = "BOTTOM",
 },
 },
+["Estaup - Firemaw"] = {
+["verticalAlignment"] = "CENTER",
+["version"] = 3,
+["position"] = {
+["y"] = 38,
+["x"] = 346,
+["point"] = "BOTTOM",
+},
+["scale"] = 0.9,
+["padding"] = 4,
+["keyring"] = false,
+},
+["Yuseph - Firemaw"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = 86,
+["x"] = 199.9998168945313,
+["point"] = "BOTTOM",
+},
+["padding"] = 4,
+["verticalAlignment"] = "CENTER",
+},
 ["Default"] = {
 ["enabled"] = false,
 ["version"] = 3,
@@ -1204,6 +1408,23 @@ false,
 ["point"] = "BOTTOM",
 },
 },
+["Estaup - Firemaw"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Yuseph - Firemaw"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
 ["Default"] = {
 ["position"] = {
 ["y"] = 100.0000076293945,
@@ -1298,6 +1519,23 @@ false,
 },
 ["Ostreicher - Firemaw"] = {
 ["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Estaup - Firemaw"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Yuseph - Firemaw"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 54,
@@ -1401,6 +1639,22 @@ false,
 ["point"] = "CENTER",
 },
 },
+["Estaup - Firemaw"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.4999389648438,
+["point"] = "CENTER",
+},
+},
+["Yuseph - Firemaw"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.4999389648438,
+["point"] = "CENTER",
+},
+},
 ["Default"] = {
 ["position"] = {
 ["y"] = 121.1466,
@@ -1493,6 +1747,23 @@ false,
 ["position"] = {
 ["y"] = 143,
 ["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Estaup - Firemaw"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99999237060547,
+["x"] = -82.49990844726562,
+["point"] = "CENTER",
+},
+},
+["Yuseph - Firemaw"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 180.0000457763672,
+["x"] = -478.4999694824219,
 ["point"] = "BOTTOM",
 ["scale"] = 1,
 },
@@ -1591,6 +1862,22 @@ false,
 ["position"] = {
 ["y"] = 143,
 ["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["Estaup - Firemaw"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Yuseph - Firemaw"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 180.0000457763672,
+["x"] = -282.5000305175781,
 ["point"] = "BOTTOM",
 },
 },
@@ -1693,6 +1980,23 @@ false,
 ["point"] = "BOTTOM",
 },
 },
+["Estaup - Firemaw"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
+["Yuseph - Firemaw"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 61,
+["x"] = -514,
+["point"] = "BOTTOM",
+},
+},
 ["Kodun - Firemaw"] = {
 ["enabled"] = true,
 ["version"] = 3,
@@ -1732,13 +2036,15 @@ false,
 },
 },
 ["profileKeys"] = {
-["Kodun - Firemaw"] = "Default",
 ["Filibaba - Pyrewood Village"] = "Filibaba - Pyrewood Village",
-["Inputs - Firemaw"] = "Inputs - Firemaw",
 ["Wunderful - Firemaw"] = "Default",
 ["Jonaspik - Firemaw"] = "phil",
 ["Aiwa - Firemaw"] = "Default",
 ["Ostreicher - Firemaw"] = "Default",
+["Estaup - Firemaw"] = "Default",
+["Yuseph - Firemaw"] = "Default",
+["Kodun - Firemaw"] = "Default",
+["Inputs - Firemaw"] = "Inputs - Firemaw",
 },
 ["profiles"] = {
 ["Filibaba - Pyrewood Village"] = {
@@ -1767,6 +2073,16 @@ false,
 ["outofrange"] = "hotkey",
 },
 ["Ostreicher - Firemaw"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Estaup - Firemaw"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Yuseph - Firemaw"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",

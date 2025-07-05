@@ -5,14 +5,14 @@ MinimapButtonButtonOptions = {
 ["blacklist"] = {
 },
 ["buttonScale"] = 1,
-["buttonsShown"] = true,
+["buttonsShown"] = false,
 ["version"] = 5,
 ["position"] = {
 "TOPRIGHT",
 nil,
 "TOPRIGHT",
--137.0333709716797,
--86.46958923339844,
+-174.0910797119141,
+-135.5461730957031,
 },
 ["hidecompartment"] = false,
 ["buttonsPerRow"] = 5,

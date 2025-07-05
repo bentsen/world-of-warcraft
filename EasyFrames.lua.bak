@@ -1,11 +1,12 @@
 
 EasyFramesDB = {
 ["profileKeys"] = {
-["Filibaba - Pyrewood Village"] = "Default",
+["Estaup - Firemaw"] = "Default",
 ["Kodun - Firemaw"] = "Default",
-["Inputs - Firemaw"] = "Default",
-["Wunderful - Firemaw"] = "Default",
+["Filibaba - Pyrewood Village"] = "Default",
 ["Jonaspik - Firemaw"] = "Default",
+["Wunderful - Firemaw"] = "Default",
+["Inputs - Firemaw"] = "Default",
 ["Aiwa - Firemaw"] = "Default",
 ["Ostreicher - Firemaw"] = "Default",
 },

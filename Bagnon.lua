@@ -28,6 +28,49 @@ Bagnon_Sets = {
 },
 ["mineColor"] = {
 },
+["color"] = {
+["quiver"] = {
+},
+["account"] = {
+},
+["enchant"] = {
+},
+["soul"] = {
+},
+["reagent"] = {
+},
+["mine"] = {
+},
+["engineer"] = {
+},
+["inscribe"] = {
+},
+["fridge"] = {
+},
+["gem"] = {
+},
+["key"] = {
+},
+["tackle"] = {
+},
+["leather"] = {
+},
+["normal"] = {
+},
+["herb"] = {
+},
+},
+["customRules"] = {
+},
+["display"] = {
+},
+["latest"] = {
+["id"] = "11.1.23",
+["cooldown"] = 1749484027,
+["who"] = "Halâs-Firemaw",
+},
+["leatherColor"] = {
+},
 ["global"] = {
 ["vault"] = {
 ["color"] = {
@@ -46,6 +89,13 @@ Bagnon_Sets = {
 },
 },
 ["inventory"] = {
+["brokerObject"] = "BigWigs",
+["point"] = "BOTTOMRIGHT",
+["color"] = {
+},
+["y"] = 100,
+["x"] = -52.3701171875,
+["showBags"] = true,
 ["rules"] = {
 ["sidebar"] = {
 "all",
@@ -53,15 +103,8 @@ Bagnon_Sets = {
 "trade",
 },
 },
-["point"] = "BOTTOMRIGHT",
-["color"] = {
-},
-["y"] = 100,
-["x"] = -52.3701171875,
 ["borderColor"] = {
 },
-["brokerObject"] = "BigWigs",
-["showBags"] = true,
 },
 ["guild"] = {
 ["y"] = -267.2645874023438,
@@ -84,6 +127,11 @@ Bagnon_Sets = {
 },
 ["bank"] = {
 ["y"] = -187.7645874023438,
+["x"] = 95.00000762939453,
+["point"] = "TOPLEFT",
+["showBags"] = true,
+["color"] = {
+},
 ["rules"] = {
 ["sidebar"] = {
 "all",
@@ -94,56 +142,8 @@ Bagnon_Sets = {
 "miscellaneous",
 },
 },
-["point"] = "TOPLEFT",
 ["borderColor"] = {
 },
-["color"] = {
-},
-["x"] = 95.00000762939453,
-["showBags"] = true,
-},
-},
-["customRules"] = {
-},
-["display"] = {
-},
-["leatherColor"] = {
-},
-["latest"] = {
-["id"] = "11.1.23",
-["cooldown"] = 1749484027,
-["who"] = "Halâs-Firemaw",
-},
-["color"] = {
-["quiver"] = {
-},
-["herb"] = {
-},
-["normal"] = {
-},
-["soul"] = {
-},
-["inscribe"] = {
-},
-["mine"] = {
-},
-["gem"] = {
-},
-["leather"] = {
-},
-["fridge"] = {
-},
-["engineer"] = {
-},
-["key"] = {
-},
-["tackle"] = {
-},
-["reagent"] = {
-},
-["enchant"] = {
-},
-["account"] = {
 },
 },
 }

@@ -1,29 +1,20 @@
 
 BigWigs3DB = {
 ["namespaces"] = {
-["BigWigs_Plugins_Countdown"] = {
+["BigWigs_Plugins_Nameplates"] = {
 ["profiles"] = {
 ["Default"] = {
-["countdownTime"] = 10,
-["position"] = {
-"CENTER",
-"CENTER",
--13,
-213,
-},
+["iconGrowDirectionStart"] = "RIGHT",
+["iconOffsetX"] = 5,
+["iconGrowDirection"] = "RIGHT",
 },
 },
 },
 ["BigWigs_Plugins_Bars"] = {
 ["profiles"] = {
 ["Default"] = {
-["fontSize"] = 11,
-["expHeight"] = 21,
-["emphasizeGrowup"] = true,
-["spacing"] = 5,
-["expWidth"] = 240,
-["texture"] = "Minimalist",
 ["barStyle"] = "TukUI",
+["fontSize"] = 11,
 ["growup"] = true,
 ["fontSizeEmph"] = 11,
 ["expPosition"] = {
@@ -32,6 +23,11 @@ nil,
 318,
 235,
 },
+["expHeight"] = 21,
+["texture"] = "Minimalist",
+["emphasizeGrowup"] = true,
+["expWidth"] = 240,
+["spacing"] = 5,
 ["normalWidth"] = 188,
 ["normalHeight"] = 19,
 ["emphasizeTime"] = 16,
@@ -41,15 +37,6 @@ nil,
 290,
 -114,
 },
-},
-},
-},
-["BigWigs_Plugins_Nameplates"] = {
-["profiles"] = {
-["Default"] = {
-["iconGrowDirectionStart"] = "RIGHT",
-["iconGrowDirection"] = "RIGHT",
-["iconOffsetX"] = 5,
 },
 },
 },
@@ -67,6 +54,19 @@ nil,
 "CENTER",
 -8,
 63,
+},
+},
+},
+},
+["BigWigs_Plugins_Countdown"] = {
+["profiles"] = {
+["Default"] = {
+["countdownTime"] = 10,
+["position"] = {
+"CENTER",
+"CENTER",
+-13,
+213,
 },
 },
 },
